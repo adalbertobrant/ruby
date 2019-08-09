@@ -50,5 +50,14 @@ x = 'Sou uma string'
 puts x
 puts ' '
 
-# no exemplo demonstrado usamos a variavel x que assumiu valores inteiros, flutuantes e string, cada vez que damos um valor a x esse valor eh modificado. 
+puts ' '
+puts 'Váriavel do tipo Bool -> Booleana'
+x = true
+puts x 
+y = false 
+puts y 
+puts ' '
+
+
+# no exemplo demonstrado usamos a variavel x e y que assumiram valores inteiros, flutuantes , string e booleanos cada vez que damos um valor a x esse valor eh modificado. 
 # Pergunta existe algum tipo de variavel que nao consigo mudar e modificar o seu valor? Sim, existe, descubra e me fale.
