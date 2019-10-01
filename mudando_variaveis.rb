@@ -35,8 +35,8 @@
 
 puts 'Exemplo de variavel'
 puts 'Variavel do tipo inteira'
-x = 1
-puts x
+y = 1
+puts y
 
 puts ' '
 puts 'Variavel do tipo flutuante'
