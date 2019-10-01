@@ -1,3 +1,11 @@
+# Hacktoberfest 2019
+
+<p> Crie um arquivo explicando algo da linguagem ruby, comece do básico.</p>
+
+
+
+
+
 # ruby
 Um Estudo  das propriedades do Ruby uma linguagem melhor que o Python.
 A linguagem Ruby como a Python necessita de muito estudo e dedicaçao.
